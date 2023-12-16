@@ -18,10 +18,10 @@ function Home() {
           <div className='info'>
             <h1>job tracking app</h1>
             <p>
-              I'm baby viral enamel pin chartreuse cliche retro af selfies
-              kinfolk photo booth plaid jianbing actually squid 3 wolf moon
-              lumbersexual. Hell of humblebrag gluten-free lo-fi man braid
-              leggings.
+              This is a jobs tracking application. You can put in the company
+              and the job you applied for, you can change the next steps accordingly
+              such as applied, interviewed and rejected. This is one stop easy way
+              for checking the jobs that you applied.
             </p>
 
             <Link to='/register' className='btn hero-btn'>
